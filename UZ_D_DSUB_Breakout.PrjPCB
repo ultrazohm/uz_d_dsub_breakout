@@ -167,6 +167,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_D_DSUB_Breakout\Design Rule Check - UZ_D_DSUB_Breakout.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectRevision
 Value=Rev01
